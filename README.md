@@ -1,0 +1,2 @@
+# volley-postDateHandle
+对Volley请求数据进行进一步封装并且对数据直接进行Gson处理返回对象
